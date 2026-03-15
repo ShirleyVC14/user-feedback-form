@@ -1,0 +1,33 @@
+body {
+    font-family: Arial;
+    margin: 40px;
+}
+
+form {
+    width: 400px;
+}
+
+input, textarea {
+    width: 100%;
+    padding: 8px;
+    margin-bottom: 10px;
+}
+
+button {
+    padding: 10px;
+    background: blue;
+    color: white;
+    border: none;
+}
+
+.tooltip {
+    display: none;
+    color: gray;
+    font-size: 12px;
+}
+
+#feedback-display {
+    margin-top: 20px;
+    border-top: 1px solid black;
+    padding-top: 10px;
+}
